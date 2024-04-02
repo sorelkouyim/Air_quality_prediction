@@ -1,5 +1,5 @@
 
-## Abstact
+## Abstract
 The air pollution is one of the most significant major driving elements behind climate change and environmental concerns that the Earth is currently facing. Air pollution is a major environmental risk to health. By reducing air pollution levels, countries can reduce many disease such as heart disease, lung cancer, and both chronic and acute respiratory diseases, including asthma. Among the pollutants, particulate matter 2.5 (PM2.5) is the dominant factor causing cancers and other diseases in humans. Several sensors have been positioned in various areas of the world in order to monitor the air quality  but there is still a wide range of areas not covered by those kind of sensors. Trough earth observation projects, Satellites are able to cover a wide range of the Earth's surface, counting inaccessible and hard-to-reach ranges.
   In this project, ground truth data and satellite images  are used to build a multimodal machine learning model to predict PM 2.5 so that it can be applicable where monitoring sensors do not exist. The Best model is the one which use the CNN as backbone for satellite images with a RMSE of .
 
